@@ -1,4 +1,4 @@
-# pic-ucla-work
+# pic-ucla
 ----
 Some code, noes, and other various C++ related things that I have from the PIC series I completed. Please note, my code probably contains errors, may use bad styling, or may not even be finished and most of the comments have been scrubbed from the files. You shouldn't use this code at all for any purpose whatsoever. Some of the files are notes that I downloaded during the classes which is not my code. If you are the author of some snippets of code here, and would like the code removed, please message me, open a request, etc. and I will do so. 
   
